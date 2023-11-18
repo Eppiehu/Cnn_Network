@@ -1,0 +1,9 @@
+image_path,label
+./train/bottle1.jpg,0
+./train/bottle2.jpg,0
+./train/pen2.jpg,1
+./train/pen3.jpg,1
+./train/bottle3.jpg,0
+./train/bottle4.jpg,0
+./train/pen1.jpg,1
+./train/pen4.jpg,1
